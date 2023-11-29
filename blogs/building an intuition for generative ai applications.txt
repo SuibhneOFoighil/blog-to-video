@@ -1,0 +1,34 @@
+"Unlocking AI's Potential: A Non-Techie's Guide to Workplace Applications"
+
+
+Curious about how generative AI can be leveraged in the workplace but not sure about what's actually doable? I'm Suibhne Ó Foighil, and I create applications using top-notch generative AI models – like what powers ChatGPT, Midjourney, and Runway. My experience spans working with various clients, from big universities to smaller law firms and entrepreneurs. A common theme? Non-tech folks are brimming with ideas for using GenAI at work but often second-guess themselves due to a lack of technical know-how.
+
+
+That's where I step in, both as a consultant and a friend. But here, I'd like to share some insights on how I help my clients grasp what AI can do, using a straightforward framework and some tangible examples. The aim is to help you develop a gut feeling for what's achievable with the latest AI tech.
+
+
+Let's start simple. Suppose there's a task in your business you think could be smoother with AI's help. It might be something routine like drafting article summaries or keeping tabs on expenses, or maybe something more ambitious, like spearheading a research project or crafting a storyboard. There's likely an AI tool out there that can make this task a breeze, or a set of tools that, when combined right, can do exactly what you're imagining. But how to be sure?
+
+
+Think of AI assistants like ChatGPT or Bard as a baseline for what generative AI can pull off. Whatever your challenge is, is there a way these AI helpers can be part of the solution?
+
+
+Say you need to sift through a bunch of legal documents to find all mentions of auto-insurance law. The question to ask is: can I get ChatGPT to read these for me and highlight the relevant parts?
+
+
+Or, if you're a claims officer at an insurance company, reviewing damage reports and photos from field agents, consider whether you can 'show' these to ChatGPT to get a summarized case and a coverage recommendation.
+
+
+If you're thinking "yes, it can do both," you're spot on. But the bigger picture here is that ChatGPT, Bard, and similar AI assistants encompass the core capabilities of even the most advanced AI systems. So, when pondering what's feasible with generative AI, think about whether a solution can be pieced together using these chatbots' capabilities.
+
+
+If your idea hovers close to what ChatGPT or Bard can do, then it's likely a go. But if you can't see how it'd work using these services, it might not be in the realm of the possible yet.
+
+
+Take generating summaries of lengthy video content, for instance. It's a drag to sit through long lectures or meetings when all you want are the key takeaways. I've crafted numerous applications around this idea. One is instant YouTube video summaries, where a chat app lets you ask questions about the video and get answers from the relevant parts. Another involves mining long videos for personality insights to build an AI double. All this is doable with what's available in ChatGPT.
+
+
+You can feed ChatGPT a video transcript to get a summary. You can ask it questions about the video content since it 'knows' the transcript. If the video is a presentation, show it the slides, and have ChatGPT walk you through the content. You can even use its voice function to read out summaries or answers.
+
+
+Sure, the deeper your tech understanding, the better you'll be at predicting possible AI applications. That's a big reason why folks hire me. But if you spend enough time playing around with AI assistants like ChatGPT, you'll start to get the hang of what's at the edge of AI capabilities, and intuitively know what can be done.
